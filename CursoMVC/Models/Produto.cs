@@ -15,6 +15,5 @@ namespace CursoMVC.Models
         public int Quantidade { get; set; }
         public int CategoriaId { get; set; }
         public Categoria Categoria { get; set; }
-
     }
 }
